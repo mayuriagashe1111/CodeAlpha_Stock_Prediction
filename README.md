@@ -1,7 +1,7 @@
 # Stock Price Prediction using LSTM
 Predict stock prices using Long Short-Term Memory (LSTM) models with historical data.
 
-Table of Contents
+# Table of Contents
 Project Overview
 Dataset
 Installation
@@ -10,43 +10,43 @@ Results & Visualization
 Contributing
 Contact
 
-Project Overview
+# Project Overview
 This project implements an LSTM-based model to predict stock prices based on past trends. The dataset contains stock prices of various companies, and the model is trained on this historical data.
 
-Dataset
-The dataset used includes stock price data of companies like Apple (AAPL), Facebook (FB), Microsoft (MSFT), and Tesla (TSLA).
+# Dataset
+The dataset used includes stock price data of companies like Apple (AAPL), Facebook (FB), Microsoft (MSFT), and Tesla (TSLA).<br>
 Data preprocessing includes normalization, feature extraction, and train-test splitting.
 
-Installation
+# Installation
 To set up the project, follow these steps:
 
 bash
-# Clone the repository
+## Clone the repository
 git clone https://github.com/your-username/stock-price-prediction.git
 
-# Navigate to the project directory
+## Navigate to the project directory
 cd stock-price-prediction
 
-# Install required dependencies
+## Install required dependencies
 pip install -r requirements.txt
 
 # Usage
-Open Jupyter Notebook (Stock_Price_Prediction.ipynb).
-Select the stock for prediction (AAPL, FB, MSFT, TSLA).
-Train the LSTM model or load a pre-trained model.
+Open Jupyter Notebook (Stock_Price_Prediction.ipynb). <br>
+Select the stock for prediction (AAPL, FB, MSFT, TSLA). <br>
+Train the LSTM model or load a pre-trained model. <br>
 View the predicted stock prices along with visualization graphs.
 
 # Results & Visualization
-Below are some sample graphs generated during predictions:
-Stock Price History
+Below are some sample graphs generated during predictions:<br>
+Stock Price History <br>
 Model Prediction vs Actual Prices
 
 # Contributing
-Contributions are welcome! Feel free to:
-Raise issues
+Contributions are welcome! Feel free to:<br>
+Raise issues<br>
 Submit pull requests
 
 # Contact
-For any queries, reach out:
-Email: mayuriagashe2001@gmail.com
+For any queries, reach out: <br>
+Email: mayuriagashe2001@gmail.com <br>
 GitHub: mayuriagashe2001
