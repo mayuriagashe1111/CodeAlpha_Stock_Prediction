@@ -22,7 +22,7 @@ To set up the project, follow these steps:
 
 bash
 ### Clone the repository
-git clone https://github.com/your-username/stock-price-prediction.git
+git clone https://github.com/mayuriagashe1111/CodeAlpha_Stock_Prediction.git
 
 ### Navigate to the project directory
 cd stock-price-prediction
@@ -49,4 +49,4 @@ Submit pull requests
 ## Contact
 For any queries, reach out: <br>
 Email: mayuriagashe2001@gmail.com <br>
-GitHub: mayuriagashe2001
+GitHub: mayuriagashe1111
